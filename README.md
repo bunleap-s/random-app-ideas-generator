@@ -2,7 +2,7 @@
 A Random App Ideas Generator built using json-server &amp; vanillaJS and deploy with Now.sh
 
 ## Installation + Pre-Components
-###json-server
+### json-server
 json-server: `npm install -g json-server`
 ```json
 {
