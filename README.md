@@ -2,6 +2,7 @@
 A Random App Ideas Generator built using json-server &amp; vanillaJS and deploy with Now.sh
 
 ## Installation + Pre-Components
+###json-server
 json-server: `npm install -g json-server`
 ```json
 {
@@ -24,7 +25,11 @@ json-server: `npm install -g json-server`
   ]
 }
 ```
+Run: `json-server --watch db.json`
+### vercel-cli/now-cli
 now-cli-tool: `npm i -g vercel`
+
+--------------------
 
 ## Links
 Helpful Links that I found very useful for building the project.
