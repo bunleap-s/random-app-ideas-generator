@@ -3,7 +3,9 @@ A Random App Ideas Generator built using json-server &amp; vanillaJS and deploy 
 
 ## Installation
 json-server: `npm install -g json-server`
+
 now-cli-tool: `npm i -g vercel`
+
 ## Pre-Component
 
 
