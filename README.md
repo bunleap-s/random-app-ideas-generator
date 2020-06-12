@@ -25,9 +25,20 @@ json-server: `npm install -g json-server`
   ]
 }
 ```
-Run: `json-server --watch db.json`
+Run Dev Server: `json-server --watch db.json`
+
+Deploy: 
+  * Upload to Github
+  * Deploy with Vercel
+  * Uses `domain`+ `db.json`
+
+Use Case JS: Property Path 
+  * (app-ideas):`ideas[MathRandom-Here]["app-ideas"]` 
+  * (details):`ideas[MathRandom-Here].details`
+
 ### vercel-cli/now-cli
-now-cli-tool: `npm i -g vercel`
+now-cli-tool: `npm i -g now`
+deploy `now --public`
 
 --------------------
 
